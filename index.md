@@ -1,8 +1,10 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Stephen Trempel
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Senior CS student at RPI
+
+Photo ![Stephen](stephen.jpg)
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
