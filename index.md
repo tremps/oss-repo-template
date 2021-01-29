@@ -4,7 +4,7 @@
 ## Bio
 Senior CS student at RPI
 
-Photo:
+Photo:<br />
 <img src="stephen.jpg" alt="Stephen" width="300" height="400"/>
 
 ## Lab Reports
