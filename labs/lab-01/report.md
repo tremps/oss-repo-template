@@ -2,6 +2,7 @@
 
 ##### Discord Screenshot
 <img src="discord.PNG" alt="discord"/><br />
+My name is displayed as Stephen by the message because I set my nickname on the server.
 
 ### Readings
 I read the open source definition and understand why the 10 criteria are important to keeping open source software available to all.
