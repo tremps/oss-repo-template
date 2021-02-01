@@ -4,6 +4,9 @@
 ## Bio
 Senior CS student at RPI
 
+##### Discord
+FUZZEL34#5590
+
 Photo:<br />
 <img src="stephen.jpg" alt="Stephen" width="300" height="400"/>
 
