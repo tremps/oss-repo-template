@@ -20,5 +20,5 @@
 ### git tag
 <img src="git_tag.PNG" alt="git tag"/><br />
 
-### Table's Shared Repo
+### Table 8 Shared Repo
 [Projetct Ideas](https://github.com/elihschiff/OSSProjectIdeas)<br />
