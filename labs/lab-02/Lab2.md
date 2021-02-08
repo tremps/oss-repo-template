@@ -16,3 +16,6 @@
 
 ### git diff
 <img src="git_diff.PNG" alt="git diff"/><br />
+
+### git tag
+<img src="git_tag.PNG" alt="git tag"/><br />
