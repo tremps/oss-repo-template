@@ -74,7 +74,7 @@ target_include_directories(Tutorial PUBLIC
                            )
 ```
 #### Output -- first with sqrt then with mysqrt
-<img src="steps1&2.PNG" alt="steps1&2" / >
+<img src="steps1&2.PNG" alt="steps1&2"/>
 ### Step 3
 #### CMakeLists.txt
 ```
@@ -117,7 +117,7 @@ add_library(MathFunctions mysqrt.cxx)
 target_include_directories(MathFunctions INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
 ```
 #### Output
-<img src="step3.PNG" alt="step3" / >
+<img src="step3.PNG" alt="step3"/>
 ### Step 4
 #### CMakeLists.txt
 ```
