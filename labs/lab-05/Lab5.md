@@ -197,7 +197,7 @@ target_include_directories(MathFunctions
 install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 ```
-<img src="step4.PNG" alt="step4" / >
+<img src="step4.PNG" alt="step4"/>
 ### Step 5
 #### CMakeLists.txt
 ```
@@ -301,10 +301,9 @@ if(HAVE_LOG AND HAVE_EXP)
 endif()
 ```
 #### Output
-<img src="step5.PNG" alt="step5" / >
+<img src="step5.PNG" alt="step5"/>
 ## BuildSystemsExample
-###
-Makefile
+### Makefile
 ```
 all: static_out dynamic_out
 
@@ -570,4 +569,4 @@ static: 8456 bytes<br />
 dynamic: 8288 bytes<br />
 File sizes were consistant for dynamic and static libraries between make and cmake. As expected, the dynamic library produced a smaller executable.
 #### output
-<img src="s&d.PNG" alt="static and dynamic execution output" / >
+<img src="s&d.PNG" alt="static and dynamic execution output"/>
