@@ -74,7 +74,7 @@ target_include_directories(Tutorial PUBLIC
                            )
 ```
 #### Output -- first with sqrt then with mysqrt
-<img src="steps1&2.PNG" alt="steps1&2"/>
+<img src="steps1&2.PNG" alt="steps1&2" />
 ### Step 3
 #### CMakeLists.txt
 ```
