@@ -117,7 +117,7 @@ add_library(MathFunctions mysqrt.cxx)
 target_include_directories(MathFunctions INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
 ```
 #### Output
-<img src="step3.PNG" alt="step3"/>
+![step3](step3.PNG)
 ### Step 4
 #### CMakeLists.txt
 ```
@@ -197,7 +197,7 @@ target_include_directories(MathFunctions
 install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 ```
-<img src="step4.PNG" alt="step4"/>
+![step4](step4.PNG)
 ### Step 5
 #### CMakeLists.txt
 ```
@@ -301,7 +301,7 @@ if(HAVE_LOG AND HAVE_EXP)
 endif()
 ```
 #### Output
-<img src="step5.PNG" alt="step5"/>
+![step5](step5.PNG)
 ## BuildSystemsExample
 ### Makefile
 ```
@@ -569,4 +569,4 @@ static: 8456 bytes<br />
 dynamic: 8288 bytes<br />
 File sizes were consistant for dynamic and static libraries between make and cmake. As expected, the dynamic library produced a smaller executable.
 #### output
-<img src="s&d.PNG" alt="static and dynamic execution output"/>
+![static and dynamic execution output](s&d.PNG)
